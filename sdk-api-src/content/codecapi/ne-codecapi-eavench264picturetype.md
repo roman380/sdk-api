@@ -60,7 +60,7 @@ Instantaneous decoding refresh (IDR) picture.
 
 ### -field eAVEncH264PictureType_P
 
-Predictive (B) picture.
+Predictive (P) picture.
 
 ### -field eAVEncH264PictureType_B
 
